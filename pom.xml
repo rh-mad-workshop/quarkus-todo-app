@@ -22,7 +22,7 @@
 
         <surefire-plugin.version>3.1.2</surefire-plugin.version>
         <skipITs>true</skipITs>
-    </properties>
+    </properties> 
 
     <dependencyManagement>
         <dependencies>
